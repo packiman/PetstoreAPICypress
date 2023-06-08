@@ -1,0 +1,83 @@
+[
+    {
+      "nameScenario": "User One",
+      "name": "IvanIvanov",
+      "data": [
+        {
+          "id": 79526561064,
+          "username": "IvanIvanov",
+          "firstName": "Ivan",
+          "lastName": "Ivanov",
+          "email": "ivan.ivanov@test.com",
+          "password": "ivan.ivanov@test.com",
+          "phone": "79526561064",
+          "userStatus": 0
+        }
+      ],
+      "updata":
+        {
+          "id": 79526561064,
+          "username": "IvanIvanov",
+          "firstName": "Vanya",
+          "lastName": "Ivanov",
+          "email": "79526561064@test.com",
+          "password": "79526561064@test.com",
+          "phone": "79526561064",
+          "userStatus": 0
+        }
+    },
+    {
+      "nameScenario": "User Two",
+      "name": "MariaPetrova",
+      "data": [
+        {
+          "id": 79993229541,
+          "username": "MariaPetrova",
+          "firstName": "Maria",
+          "lastName": "Petrova",
+          "email": "maria.petrova@test.com",
+          "password": "maria.petrova@test.com",
+          "phone": "79993229541",
+          "userStatus": 0
+        }
+      ],
+      "updata":
+        {
+          "id": 79993229541,
+          "username": "MariaPetrova",
+          "firstName": "Masha",
+          "lastName": "Petrova",
+          "email": "79993229541@test.com",
+          "password": "79993229541@test.com",
+          "phone": "79993229541",
+          "userStatus": 0
+        }
+    },
+    {
+      "nameScenario": "User Three",
+      "name": "john",
+      "data": [
+        {
+          "id": 79461603470,
+          "username": "john",
+          "firstName": "Tea",
+          "lastName": "Richard",
+          "email": "tea.richard@test.com",
+          "password": "tea.richard@test.com",
+          "phone": "79461603470",
+          "userStatus": 0
+        }
+      ],
+      "updata":
+        {
+          "id": 79461603470,
+          "username": "john",
+          "firstName": "Zhenya",
+          "lastName": "Richard",
+          "email": "79461603470@test.com",
+          "password": "79461603470@test.com",
+          "phone": "79461603470",
+          "userStatus": 0
+        }
+    }
+  ]
